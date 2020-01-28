@@ -7,7 +7,7 @@
 # AlgoverseDataBase
 C# .NET NOSQL
 
-Use our fast database designed for highly loaded projects
+Use our fast database designed for highly loaded projects.
 You can take and immediately connect AlgoverseDataBase to your project.
 The code is well commented.
 Documentation is still in development.
