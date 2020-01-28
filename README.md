@@ -18,7 +18,7 @@ Have a nice work!
 Можно брать и сразу подкючать AlgoverseDataBase к своему проекту.
 Код хорошо прокомментирован.
 Документация пока в разработке. 
-По вопросам о работе с БД прошу обращаться к автору создателю базыданных: nim https://github.com/nim.
+По вопросам о работе с БД прошу обращаться к автору-создателю базы данных: nim https://github.com/nim.
 Приятной работы!
 
 Bruk vår raske database designet for høyt lastede prosjekter.
