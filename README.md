@@ -14,12 +14,14 @@ Documentation is still in development.
 For questions about working with the database, please contact the author and database creators: nim https://github.com/nim.
 Have a nice work!
 
+
 Используйте нашу быструю БД разработанную для высоконагруженных приложений.
 Можно брать и сразу подкючать AlgoverseDataBase к своему проекту.
 Код хорошо прокомментирован.
 Документация пока в разработке. 
 По вопросам о работе с БД прошу обращаться к автору-создателю базы данных: nim https://github.com/nim.
 Приятной работы!
+
 
 Bruk vår raske database designet for høye belastningsapplikasjoner.
 Du kan ta og umiddelbart koble AlgoverseDataBase til prosjektet ditt.
@@ -28,12 +30,14 @@ Dokumentasjon er fortsatt i utvikling.
 For spørsmål om arbeid med databasen, kontakt forfatteren og databaseskaperne: nim https://github.com/nim.
 Ha et fint arbeid!
 
+
 Skorzystaj z naszej szybkiej bazy danych zaprojektowanej do aplikacji wymagających dużego obciążenia.
 Możesz wziąć i natychmiast połączyć się AlgoverseDataBase ze swoim projektem.
 Kod jest dobrze skomentowany.
 Dokumentacja jest wciąż w fazie rozwoju.
 W przypadku pytań dotyczących pracy z bazą danych skontaktuj się z autorem i twórcami bazy danych: nim https://github.com/nim.
 Miłej pracy!
+
 
 Utilice nuestra base de datos rápida diseñada para aplicaciones de alta carga.
 Puede tomar y conectarse inmediatamente AlgoverseDataBase a su proyecto.
