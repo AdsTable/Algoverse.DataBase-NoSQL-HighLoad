@@ -4,7 +4,7 @@
 
 //Licensed under the BSD 3-Clause License. 
 
-# AlgoverseDataBase
+# Algoverse.DataBase-NoSQL-HighLoad
 C# .NET NOSQL HighLoad
 
 Use our fast database designed for Highload applications.
