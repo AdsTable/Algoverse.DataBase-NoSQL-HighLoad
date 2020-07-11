@@ -54,4 +54,4 @@ Para preguntas sobre cómo trabajar con la base de datos, comuníquese con el au
 有关使用数据库的问题，请与作者和数据库创建者联系：nim https://github.com/nim。
 辛苦了！
 
-//translated using Google Translate
+//translated by using Google Translate
