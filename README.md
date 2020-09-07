@@ -2,7 +2,7 @@
 
 //DB author and database creators is Maksim Burtsev as nim: https://github.com/nim. 
 
-//Licensed under the BSD 3-Clause License. 
+//Licensed under the Server Side Public License (SSPL). 
 
 # Algoverse.DataBase-NoSQL-HighLoad
 C# .NET 
