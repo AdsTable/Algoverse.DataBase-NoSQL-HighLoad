@@ -1,6 +1,6 @@
 //The copyright owner (copyright holder) is Paul Martin and AdsTable as Global Ads Media House LTD.
 
-//DB author and database creators is Maksim Burtsev as nim: https://github.com/nim. 
+//DB author and database creators is Maksim Burtsev: https://github.com/MBurtsev. 
 
 //Licensed under the Server Side Public License (SSPL). 
 
