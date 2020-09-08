@@ -9,7 +9,7 @@ Use our fast database designed for Highload applications.
 You can take and immediately connect AlgoverseDataBase to your project.
 The code is well commented.
 Documentation is still in development.
-For questions about working with the database, please contact the author and database creators: nim https://github.com/nim.
+For questions about working with the database, please contact the author and database creators: github.com/MBurtsev.
 Have a nice work!
 
 
@@ -49,7 +49,7 @@ Para preguntas sobre cómo trabajar con la base de datos, comuníquese con el au
 您可以立即将AlgoverseDataBase连接到您的项目。
 该代码是很好的注释。
 文档仍在开发中。
-有关使用数据库的问题，请与作者和数据库创建者联系：nim https://github.com/nim。
+有关使用数据库的问题，请与作者和数据库创建者联系：github.com/MBurtsev.
 辛苦了！
 
 //translated by using Google Translate
