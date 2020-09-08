@@ -1,7 +1,5 @@
 //The copyright owner (copyright holder) is Paul Martin and AdsTable as Global Ads Media House LTD.
 
-//DB author and database creators is Maksim Burtsev: https://github.com/MBurtsev. 
-
 //Licensed under the Server Side Public License (SSPL). 
 
 # Algoverse.DataBase-NoSQL-HighLoad
@@ -19,7 +17,7 @@ Have a nice work!
 Можно брать и сразу подкючать AlgoverseDataBase к своему проекту.
 Код хорошо прокомментирован.
 Документация пока в разработке. 
-По вопросам о работе с БД прошу обращаться к автору-создателю базы данных: nim https://github.com/nim.
+По вопросам о работе с БД прошу обращаться к автору-создателю базы данных: github.com/MBurtsev.
 Приятной работы!
 
 
@@ -27,7 +25,7 @@ Bruk vår raske database designet for høye belastningsapplikasjoner.
 Du kan ta og umiddelbart koble AlgoverseDataBase til prosjektet ditt.
 Koden er godt kommentert.
 Dokumentasjon er fortsatt i utvikling.
-For spørsmål om arbeid med databasen, kontakt forfatteren og databaseskaperne: nim https://github.com/nim.
+For spørsmål om arbeid med databasen, kontakt forfatteren og databaseskaperne: github.com/MBurtsev.
 Ha et fint arbeid!
 
 
@@ -35,7 +33,7 @@ Skorzystaj z naszej szybkiej bazy danych zaprojektowanej do aplikacji wymagając
 Możesz wziąć i natychmiast połączyć się AlgoverseDataBase ze swoim projektem.
 Kod jest dobrze skomentowany.
 Dokumentacja jest wciąż w fazie rozwoju.
-W przypadku pytań dotyczących pracy z bazą danych skontaktuj się z autorem i twórcami bazy danych: nim https://github.com/nim.
+W przypadku pytań dotyczących pracy z bazą danych skontaktuj się z autorem i twórcami bazy danych: github.com/MBurtsev.
 Miłej pracy!
 
 
@@ -43,7 +41,7 @@ Utilice nuestra base de datos rápida diseñada para aplicaciones de alta carga.
 Puede tomar y conectarse inmediatamente AlgoverseDataBase a su proyecto.
 El código está bien comentado.
 La documentación aún está en desarrollo.
-Para preguntas sobre cómo trabajar con la base de datos, comuníquese con el autor y los creadores de la base de datos: nim https://github.com/nim.
+Para preguntas sobre cómo trabajar con la base de datos, comuníquese con el autor y los creadores de la base de datos: github.com/MBurtsev.
 ¡Ten un buen trabajo!
 
 
