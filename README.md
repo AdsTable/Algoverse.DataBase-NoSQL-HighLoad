@@ -2,7 +2,7 @@
 
 // The DataBase author/architect/designer/creator is Maksim Burtsev: github.com/MBurtsev
 
-//Licensed under the Server Side Public License (SSPL). 
+// Licensed under the Server Side Public License (SSPL). All right reserved.
 
 # Algoverse.DataBase-NoSQL-HighLoad
 C# .NET 
