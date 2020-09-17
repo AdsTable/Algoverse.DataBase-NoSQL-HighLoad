@@ -52,6 +52,22 @@ La documentación aún está en desarrollo.
 Para preguntas sobre cómo trabajar con la base de datos, comuníquese con el autor y el creador de la base de datos: github.com/MBurtsev.
 ¡Ten un buen trabajo!
 
+//DE 
+
+Nutzen Sie unsere schnelle Datenbank für Highload-Anwendungen. 
+Sie können AlgoverseDataBase sofort mit Ihrem Projekt verbinden. 
+Der Code ist gut kommentiert. Die Dokumentation befindet sich noch in der Entwicklung. 
+Bei Fragen zur Arbeit mit der Datenbank wenden Sie sich bitte an den Autor und Datenbankersteller: github.com/MBurtsev. 
+Viel Spaß bei der Arbeit!
+
+//FR 
+
+Utilisez notre base de données rapide conçue pour les applications Highload. 
+Vous pouvez prendre et connecter immédiatement AlgoverseDataBase à votre projet. 
+Le code est bien commenté. La documentation est encore en développement. 
+Pour toute question sur l'utilisation de la base de données, veuillez contacter l'auteur et le créateur de la base de données: github.com/MBurtsev. 
+Bon travail!
+
 //CN 
 
 使用我们为高负载应用程序设计的快速数据库。
