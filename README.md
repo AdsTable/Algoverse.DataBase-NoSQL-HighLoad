@@ -77,4 +77,4 @@ Bon travail!
 有关使用数据库的问题，请与作者和数据库创建者联系：github.com/MBurtsev.
 辛苦了！
 
-//translated by using Google Translate
+//Readme text translated by using Google Translate
