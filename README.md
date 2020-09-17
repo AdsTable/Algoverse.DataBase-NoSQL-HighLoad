@@ -8,6 +8,7 @@
 C# .NET 
 
 //EN 
+
 Use our fast database designed for Highload applications.
 You can take and immediately connect AlgoverseDataBase to your project.
 The code is well commented.
@@ -16,6 +17,7 @@ For questions about working with the database, please contact the author and dat
 Have a nice work!
 
 //RU 
+
 Используйте нашу быструю БД разработанную для высоконагруженных приложений.
 Можно брать и сразу подкючать AlgoverseDataBase к своему проекту.
 Код хорошо прокомментирован.
@@ -24,6 +26,7 @@ Have a nice work!
 Приятной работы!
 
 //NO 
+
 Bruk vår raske database designet for høye belastningsapplikasjoner.
 Du kan ta og umiddelbart koble AlgoverseDataBase til prosjektet ditt.
 Koden er godt kommentert.
@@ -32,6 +35,7 @@ For spørsmål om arbeid av databasen, ta kontakt med forfatteren og databaseska
 Ha et fint arbeid!
 
 //PL 
+
 Skorzystaj z naszej szybkiej bazy danych zaprojektowanej do aplikacji wymagających dużego obciążenia.
 Możesz wziąć i natychmiast połączyć się AlgoverseDataBase ze swoim projektem.
 Kod jest dobrze skomentowany.
@@ -40,6 +44,7 @@ W przypadku pytań dotyczących pracy z bazą danych skontaktuj się z autorem i
 Miłej pracy!
 
 //ES 
+
 Utilice nuestra base de datos rápida diseñada para aplicaciones de alta carga.
 Puede tomar y conectarse inmediatamente AlgoverseDataBase a su proyecto.
 El código está bien comentado.
@@ -48,6 +53,7 @@ Para preguntas sobre cómo trabajar con la base de datos, comuníquese con el au
 ¡Ten un buen trabajo!
 
 //CN 
+
 使用我们为高负载应用程序设计的快速数据库。
 您可以立即将AlgoverseDataBase连接到您的项目。
 该代码是很好的注释。
