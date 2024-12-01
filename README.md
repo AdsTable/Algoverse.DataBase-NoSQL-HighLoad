@@ -1,7 +1,5 @@
 //The copyright owner (copyright holder) is Paul Martin as AdsTable (Global Ads Media House LTD).
 
-// The DataBase author/architect/designer/creator is Maksim Burtsev: github.com/MBurtsev
-
 // Licensed under the Server Side Public License (SSPL). All right reserved.
 
 # Algoverse.DataBase-NoSQL-HighLoad
@@ -13,7 +11,7 @@ Use our fast database designed for Highload applications.
 You can take and immediately connect AlgoverseDataBase to your project.
 The code is well commented.
 Documentation is still in development.
-For questions about working with the database, please contact the author and database creator: github.com/MBurtsev.
+For questions about working with the database, please contact us.
 Have a nice work!
 
 //RU 
@@ -22,7 +20,7 @@ Have a nice work!
 Можно брать и сразу подкючать AlgoverseDataBase к своему проекту.
 Код хорошо прокомментирован.
 Документация пока в разработке. 
-По вопросам о работе с БД прошу обращаться к автору-создателю базы данных: github.com/MBurtsev.
+По вопросам работы с базой данных, пожалуйста, обращайтесь к нам.
 Приятной работы!
 
 //NO 
@@ -31,7 +29,7 @@ Bruk vår raske database designet for høye belastningsapplikasjoner.
 Du kan ta og umiddelbart koble AlgoverseDataBase til prosjektet ditt.
 Koden er godt kommentert.
 Dokumentasjon er fortsatt i utvikling.
-For spørsmål om arbeid av databasen, ta kontakt med forfatteren og databaseskaperen: github.com/MBurtsev.
+For spørsmål om arbeid med databasen, vennligst kontakt oss.
 Ha et fint arbeid!
 
 //PL 
@@ -40,7 +38,7 @@ Skorzystaj z naszej szybkiej bazy danych zaprojektowanej do aplikacji wymagając
 Możesz wziąć i natychmiast połączyć się AlgoverseDataBase ze swoim projektem.
 Kod jest dobrze skomentowany.
 Dokumentacja jest wciąż w fazie rozwoju.
-W przypadku pytań dotyczących pracy z bazą danych skontaktuj się z autorem i twórcem bazy danych: github.com/MBurtsev.
+W przypadku pytań dotyczących pracy z bazą danych prosimy o kontakt.
 Miłej pracy!
 
 //ES 
@@ -49,7 +47,7 @@ Utilice nuestra base de datos rápida diseñada para aplicaciones de alta carga.
 Puede tomar y conectarse inmediatamente AlgoverseDataBase a su proyecto.
 El código está bien comentado.
 La documentación aún está en desarrollo.
-Para preguntas sobre cómo trabajar con la base de datos, comuníquese con el autor y el creador de la base de datos: github.com/MBurtsev.
+Si tiene preguntas sobre cómo trabajar con la base de datos, contáctenos.
 ¡Ten un buen trabajo!
 
 //DE 
@@ -57,7 +55,7 @@ Para preguntas sobre cómo trabajar con la base de datos, comuníquese con el au
 Nutzen Sie unsere schnelle Datenbank für Highload-Anwendungen. 
 Sie können AlgoverseDataBase sofort mit Ihrem Projekt verbinden. 
 Der Code ist gut kommentiert. Die Dokumentation befindet sich noch in der Entwicklung. 
-Bei Fragen zur Arbeit mit der Datenbank wenden Sie sich bitte an den Autor und Datenbankersteller: github.com/MBurtsev. 
+Bei Fragen zum Arbeiten mit der Datenbank nehmen Sie bitte Kontakt mit uns auf.
 Viel Spaß bei der Arbeit!
 
 //FR 
@@ -65,7 +63,7 @@ Viel Spaß bei der Arbeit!
 Utilisez notre base de données rapide conçue pour les applications Highload. 
 Vous pouvez prendre et connecter immédiatement AlgoverseDataBase à votre projet. 
 Le code est bien commenté. La documentation est encore en développement. 
-Pour toute question sur l'utilisation de la base de données, veuillez contacter l'auteur et le créateur de la base de données: github.com/MBurtsev. 
+Pour toute question sur l'utilisation de la base de données, veuillez nous contacter.
 Bon travail!
 
 //CN 
@@ -74,7 +72,6 @@ Bon travail!
 您可以立即将AlgoverseDataBase连接到您的项目。
 该代码是很好的注释。
 文档仍在开发中。
-有关使用数据库的问题，请与作者和数据库创建者联系：github.com/MBurtsev.
+有关使用数据库的问题，请与我们联系。
 辛苦了！
 
-//Readme text translated by using Google Translate
