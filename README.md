@@ -2,7 +2,7 @@
 
 // Licensed under the Server Side Public License (SSPL). All right reserved.
 
-www-AdsTable.com
+www.AdsTable.com
 
 # Algoverse.DataBase-NoSQL-HighLoad
 C# .NET 
